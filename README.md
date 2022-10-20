@@ -27,7 +27,7 @@
   Link for Heroku is here ()
 
     Example of the Heroku website
-   ![Image of Heroku]()
+   ![Image of Heroku](img/herokupage.png)
 
 
   ## Questions
