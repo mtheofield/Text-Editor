@@ -2,23 +2,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-
+    The text editor allows a developer to create notes or code snippets with or without an internet connection and be able to reliably retrieve them for later use storing data to an IndexedDB database.
 
   ## Table of Contents
 
   * [Description](#description)
-  * [Installation](#installation)
+  * [Applications](#applications)
   * [License](#license)
   * [Heroku-Link](#heroku-link)
   * [Questions](#questions)
   
   ## Installation
 
-  To install this application you wiill need to run the following command:
-  ```
-   npm i
-  
-  ```
+ - [JavaScript] (https://www.javascript.com/)
+ - [Node.js](https://nodejs.org/en/)
+ - [Express](https://expressjs.com/)
+ - [Webpack](https://webpack.js.org/)
+ - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API IndexedDB_API)
   
   ## License
   This project is covered under the MIT license.
@@ -28,6 +28,8 @@
 
     Example of the Heroku website
    ![Image of Heroku](img/herokupage.png)
+   ![Image of Heroku website](img/browser_test.png)
+   ![Image of desktop app downloaded](img/desktopapp_test.png)
 
 
   ## Questions
