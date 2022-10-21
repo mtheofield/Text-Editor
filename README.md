@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-    The text editor allows a developer to create notes or code snippets with or without an internet connection and be able to reliably retrieve them for later use storing data to an IndexedDB database.
+ The text editor allows a developer to create notes or code snippets with or without an internet connection and be able to reliably retrieve them for later use storing data to an IndexedDB database.
 
   ## Table of Contents
 
@@ -24,7 +24,7 @@
   This project is covered under the MIT license.
 
   ## Heroku-Link
-  Link for Heroku is here ()
+  Link for Heroku is here (https://damp-ridge-61608.herokuapp.com/)
 
     Example of the Heroku website
    ![Image of Heroku](img/herokupage.png)
