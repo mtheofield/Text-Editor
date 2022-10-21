@@ -12,21 +12,20 @@
   * [Heroku-Link](#heroku-link)
   * [Questions](#questions)
   
-  ## Installation
+  ## Applications
 
- - [JavaScript] (https://www.javascript.com/)
+ - [JavaScript](https://www.javascript.com/)
  - [Node.js](https://nodejs.org/en/)
  - [Express](https://expressjs.com/)
  - [Webpack](https://webpack.js.org/)
- - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API IndexedDB_API)
+ - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
   
   ## License
   This project is covered under the MIT license.
 
   ## Heroku-Link
-  Link for Heroku is here (https://damp-ridge-61608.herokuapp.com/)
+  [Click here for Heroku link](https://damp-ridge-61608.herokuapp.com/)
 
-    Example of the Heroku website
    ![Image of Heroku](img/herokupage.png)
    ![Image of Heroku website](img/browser_test.png)
    ![Image of desktop app downloaded](img/desktopapp_test.png)
